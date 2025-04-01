@@ -42,6 +42,7 @@
 2. Execute it:
    ```bash
    make r
+   
 3. Open another terminal
    ```bash
    firefox "http://localhost:8080"
