@@ -43,6 +43,7 @@
    ```bash
    make r
    
-3. Open another terminal
+3. Make Request:
+Open another terminal and run:
    ```bash
    firefox "http://localhost:8080"
