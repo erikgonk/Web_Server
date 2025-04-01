@@ -34,3 +34,14 @@
 - 🌐 **Protocols:** HTTP/1.1, TCP/IP  
 - ⚡ **Concurrency:** Multi-threading
 - 🧑‍💻 **Additional Technologies:** CGI, Virtual Hosts, File System Management
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/erikgonk/Web_Server.git && cd Web_Server
+
+2. Execute it:
+   ```bash
+   make r
+3. Open another terminal
+   ```bash
+   firefox "http://localhost:8080"
